@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jo (Jyothi Pinnika)  
+# 👋 Hi, I'm Jyothi Pinnika 
 **Senior Platform Engineer | SRE | Kubernetes & GitOps Specialist**  
 
 I build internal developer platforms, scale cloud-native systems, and make production boring (in a good way).  
