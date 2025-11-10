@@ -68,9 +68,9 @@ Python-based automation for readiness checks, kube validations, secret rotation,
 ---
 
 ## 📫 Let’s Connect
-💼 LinkedIn: https://linkedin.com/in/your-link  
+💼 LinkedIn: https://linkedin.com/in/jyothi-dev
 🐙 GitHub: https://github.com/jpdevops341  
-✉️ Email: your@email.com  
+✉️ Email: jyothip.devops@gmail.com  
 
 ---
 
